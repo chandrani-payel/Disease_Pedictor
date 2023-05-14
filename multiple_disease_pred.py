@@ -46,7 +46,7 @@ heart_disease_model = pickle.load(open(os.path.join(os.path.dirname(os.path.absp
 parkinsons_model = pickle.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "saved_model/parkinsons_model (1).sav"),'rb'))
                               
 model = joblib.load(os.path.join(os.path.dirname(os.path.abspath(__file__)), "saved_model/random_f.joblib"))
-#model = joblib.load(open('C:/Users\sabyasachi\Desktop\Multiple_Disease_Prediction\saved_model\random_f.joblib', 'rb'))
+#model = joblib.load(open('C:/Users\chandani\Desktop\Multiple_Disease_Prediction\saved_model\random_f.joblib', 'rb'))
 
 #Welcome text
 st.title("Welcome to _Predico_ - The Smart Health Predictor")
