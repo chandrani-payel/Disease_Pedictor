@@ -1,2 +1,2 @@
-streamlit run "C:\Users\KIIT\Desktop\myproject\multiple_disease_pred.py"
+streamlit run "C:\Users\sabyasachi\Desktop\Multiple_Disease_Prediction\multiple_disease_pred.py"
 
